@@ -135,8 +135,8 @@ Book a spot in a fitness class.
 ```json
 {
   "fitness_class_id": 1,
-  "client_name": "John Doe",
-  "client_email": "john@example.com"
+  "client_name": "ramesh",
+  "client_email": "rk@example.com"
 }
 ```
 
